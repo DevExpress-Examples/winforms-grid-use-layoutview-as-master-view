@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication3/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication3/Form1.vb))
+* [MasterDetailHelper.cs](./CS/WindowsApplication3/MasterDetailHelper.cs) (VB: [MasterDetailHelper.vb](./VB/WindowsApplication3/MasterDetailHelper.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+<!-- default file list end -->
 # How to use the LayoutView/CardView as a master View in master-detail mode
 
 
