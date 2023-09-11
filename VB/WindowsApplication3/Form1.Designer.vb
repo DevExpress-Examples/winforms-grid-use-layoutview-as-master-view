@@ -35,7 +35,7 @@ Namespace WindowsApplication3
 			Me.colFreight1 = New DevExpress.XtraGrid.Columns.GridColumn()
 			Me.gridControl1 = New DevExpress.XtraGrid.GridControl()
 			Me.ordersBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-			Me.nwindDataSet = New WindowsApplication3.nwindDataSet()
+			Me.nwindDataSet = New nwindDataSet()
 			Me.layoutView1 = New DevExpress.XtraGrid.Views.Layout.LayoutView()
 			Me.colOrderID = New DevExpress.XtraGrid.Columns.LayoutViewColumn()
 			Me.layoutViewField_colOrderID = New DevExpress.XtraGrid.Views.Layout.LayoutViewField()
@@ -51,8 +51,8 @@ Namespace WindowsApplication3
 			Me.layoutViewField_colFreight = New DevExpress.XtraGrid.Views.Layout.LayoutViewField()
 			Me.layoutViewCard1 = New DevExpress.XtraGrid.Views.Layout.LayoutViewCard()
 			Me.orderDetailsBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-			Me.order_DetailsTableAdapter = New WindowsApplication3.nwindDataSetTableAdapters.Order_DetailsTableAdapter()
-			Me.ordersTableAdapter = New WindowsApplication3.nwindDataSetTableAdapters.OrdersTableAdapter()
+			Me.order_DetailsTableAdapter = New nwindDataSetTableAdapters.Order_DetailsTableAdapter()
+			Me.ordersTableAdapter = New nwindDataSetTableAdapters.OrdersTableAdapter()
 			Me.panelControl1 = New DevExpress.XtraEditors.PanelControl()
 			Me.radioGroup1 = New DevExpress.XtraEditors.RadioGroup()
 			Me.defaultLookAndFeel1 = New DevExpress.LookAndFeel.DefaultLookAndFeel(Me.components)
@@ -314,9 +314,9 @@ Namespace WindowsApplication3
 		Private layoutViewCard1 As DevExpress.XtraGrid.Views.Layout.LayoutViewCard
 		Private nwindDataSet As nwindDataSet
 		Private orderDetailsBindingSource As System.Windows.Forms.BindingSource
-		Private order_DetailsTableAdapter As WindowsApplication3.nwindDataSetTableAdapters.Order_DetailsTableAdapter
+		Private order_DetailsTableAdapter As nwindDataSetTableAdapters.Order_DetailsTableAdapter
 		Private ordersBindingSource As System.Windows.Forms.BindingSource
-		Private ordersTableAdapter As WindowsApplication3.nwindDataSetTableAdapters.OrdersTableAdapter
+		Private ordersTableAdapter As nwindDataSetTableAdapters.OrdersTableAdapter
 		Private colOrderID As DevExpress.XtraGrid.Columns.LayoutViewColumn
 		Private layoutViewField_colOrderID As DevExpress.XtraGrid.Views.Layout.LayoutViewField
 		Private colCustomerID As DevExpress.XtraGrid.Columns.LayoutViewColumn
