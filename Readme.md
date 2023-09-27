@@ -8,7 +8,7 @@
 
 This example shows how to:
 
-* Bind the Grid Control to a master-detail data (Order-Details).
+* Bind the Grid Control to master-detail data (Order-Details).
 * Use the [LayoutView](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Layout.LayoutView) as a master view.
 * Allow the user to select the type of detail view (Grid, Card, or Layout View).
 
