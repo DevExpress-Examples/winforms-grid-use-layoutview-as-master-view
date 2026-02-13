@@ -33,7 +33,7 @@ This example shows how to:
 * [Master-Detail Mode - DevExpress WinForms Cheat Sheet](https://supportcenter.devexpress.com/ticket/details/t919464/master-detail-mode-in-winforms-data-grid-winforms-cheat-sheet)
 * [DevExpress WinForms Troubleshooting - Grid Control﻿](https://supportcenter.devexpress.com/ticket/details/t934742/devexpress-winforms-troubleshooting-grid-control)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-use-layoutview-as-master-view&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-use-layoutview-as-master-view&~~~was_helpful=no)
 
