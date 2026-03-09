@@ -13,7 +13,7 @@ This example shows how to:
 * Use the [LayoutView](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Layout.LayoutView) as a master view.
 * Allow the user to select the type of detail view (Grid, Card, or Layout View).
 
-![WinForms Data Grid - Use the Layout or Card View as a master View in master-detail mode](https://raw.githubusercontent.com/DevExpress-Examples/how-to-use-the-layoutview-cardview-as-a-master-view-in-master-detail-mode-e2428/16.1.4%2B/media/winforms-grid-layoutview-master-detail.png)
+![WinForms Data Grid - Use the Layout or Card View as a master View in master-detail mode](media/winforms-grid-layoutview-master-detail.png)
 
 
 ## Files to Review
@@ -39,3 +39,4 @@ This example shows how to:
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
